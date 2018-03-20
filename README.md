@@ -1,4 +1,4 @@
-# Assignment API Characters
+# API Characters
 
 ## Week 07, Tuesday morning activity
 
